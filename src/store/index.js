@@ -4,8 +4,8 @@ export default createStore({
   state: {
     sysState: 0,
     superuser: {
-      name: "Sakhno",
-      password: "3434",
+      name: "admin",
+      password: "admin000",
       active: false
     },
     settings: {
