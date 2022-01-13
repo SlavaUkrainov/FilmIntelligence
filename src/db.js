@@ -14,6 +14,7 @@ const data = [
     {name:"Ла-Ла Ленд", genre:"musicle", relation: "sad", single: true, year: "10", actors: ["Райан Гослинг", "Эмма Стоун"], mark: 7.9, image: lala },
     {name:"Пила: Игра на выживание", genre:"horror", relation: "emotions", single: false, year: "00", actors: ["Ли Уоннелл",], mark: 7.8, image: pilaz },
     {name:"Джон Уик", genre:"fighter", relation: "relax", single: false, year: "10", actors: ["Киану Ривз",], mark: 7.0, image: john },
+    {name:"Звёздные войны: Эпизод 4 — Новая надежда ", genre:"fighter", relation: "emotions", single: false, year: "70", actors: ["Харисон Форд", "Марк Хэммил"], mark: 8.1, image: lala }
 ];
 
 
