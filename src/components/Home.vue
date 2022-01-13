@@ -22,7 +22,7 @@ import knives from "@/assets/knives.jpg"
 import lalaland from "@/assets/la-la-land.jpg"
 import lord from "@/assets/lordrings.jpg"
 import pila from "@/assets/pila.jpg"
-import pirates from "@/assets/pirates.jpg"
+import wrath from "@/assets/wrath.jpg"
 import Card from "@/components/card/Card"
 import chill from "@/assets/chill.jpg"
 import relax from "@/assets/relax.jpg"
@@ -60,7 +60,7 @@ export default {
         {id:3,name: "Мюзикл", image:lalaland, value: "musicle"},
         {id:4,name: "Приключения", image:lord, value: "travel"},
         {id:5,name: "Хоррор", image:pila, value: "horror"},
-        {id:6,name: "Боевик", image:pirates, value: "fighter"},
+        {id:6,name: "Боевик", image:wrath, value: "fighter"},
       ],
 
       relations: [
