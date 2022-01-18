@@ -22,6 +22,7 @@ import chocolate from "@/assets/chocolate.jpg"
 import aladdin from "@/assets/aladdin.jpg"
 import duskdawn from "@/assets/duskdawn.jpg"
 import alien from "@/assets/alien.jpg"
+import dmb from "@/assets/dmb.jpg"
 
 const data = [
     {name:"Великий Гэтсби", genre:"drama", relation: "emotions", single: true, year: "10", actors: ["Леонардо Ди Каприо", "Тоби Магуайр"], mark: 7.9, image: gatsby} ,
@@ -32,6 +33,7 @@ const data = [
     {name:"Мальчишник в Вегасе", genre:"comedy", relation: "chill", single: false, year: "00", actors: ["Бредли Купер", "Эд Хелмс"], mark: 7.9, image: hangover },
     {name:"Большой Лебовски", genre:"comedy", relation: "relax", single: true, year: "90", actors: ["Джефф Бриджес"], mark: 7.8, image: lebowski },
     {name:"Всегда говори ДА", genre:"comedy", relation: "think", single: true, year: "00", actors: ["Джим Керри"], mark: 7.8, image: yes },
+    {name:"ДМБ", genre:"comedy", relation: "think", single: true, year: "00", actors: ["Петр Коршунков", "Станислав Дужников", "Алексей Панин"], mark: 7.8, image: dmb },
 
     {name:"Властелин Колец: Братство кольца", genre:"travel", relation: "think", single: false, year: "00", actors: ["Элайджа Вуд"], mark: 8.6, image: sanya },
     {name:"Выживший", genre:"travel", relation: "emotions", single: true, year: "10", actors: ["Леонардо Ди Каприо"], mark: 7.8, image: revenant },
